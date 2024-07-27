@@ -1,3 +1,6 @@
+# ✅ You are on the Stable branch ✅
+This is the Stable releases branch, where all **STABLE RELEASES** are put, if you are looking for development releases, please gp to the "development-branch" branch. The current stable release is 1.00
+
 # RFIS
 RPM Fusion Install Script (RFIS) 
 For use with ***FEDORA SYSTEMS ONLY***
