@@ -1,5 +1,7 @@
-# ✅ You are on the Stable branch ✅
-This is the Stable releases branch, where all **STABLE RELEASES** are put, if you are looking for development releases, please go to the "development-branch" branch. The current stable release is **1.00**
+> [!NOTE]
+> This is the Stable releases branch where the current **stable** versions of the script are placed. The current stable release is ***1.00***
+>
+> **Development** releases are in the "testing-branch" branch and are typically marked as "Pre-Release" in Releases
 
 # RFIS
 RPM Fusion Install Script (RFIS) 
