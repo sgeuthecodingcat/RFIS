@@ -16,7 +16,10 @@ Edit it in Github and submit a pull request.
 https://github.com/sgeuthecodingcat/RFIS/pulls
 
 # It's taking so long to get my PR accepted, or Issue read!
-There's only one contributer here. Give me a week or so, I read 5 PRs and 5 Issues each week and will probably comment on it.
+There's only one contributor here. Give me a week or so, I read 5 PRs and 5 Issues each week and will probably comment on it once I read it.
+
+# Where are the testing releases?
+Usually on pre-release on the releases tab, also source code is in the "testing-branch" branch
 
 # When will it be compatible with RHEL, CentOS, or AlmaLinux?
 If there is enough demand, I will copple one together within a week or two.
