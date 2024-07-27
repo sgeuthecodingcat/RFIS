@@ -1,5 +1,5 @@
 # ⚠️ Hey, this is the testing branch ⚠️
-This is where i put **DEVELOPENT VERSIONS** of RFIS that are not production ready or ready to be used the way a stable release would be, I cannot guarentee stability on releases you find here, and if you want stability, go to releases and download **VERSION 1.00** which has been tested and works correctly and can be used normally.
+This is where i put **DEVELOPENT VERSIONS** of RFIS that are not production ready or ready to be used the way a stable release would be, I cannot guarentee stability on releases you find here, and if you want stability, go to releases and download **VERSION 1.00** which has been tested and works correctly and can be used normally. The current development release is **2.00-testing-branch**
 
 # RFIS
 RPM Fusion Install Script (RFIS) 
