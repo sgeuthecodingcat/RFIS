@@ -1,5 +1,8 @@
-# ⚠️ Hey, this is the testing branch ⚠️
-This is where i put **DEVELOPENT VERSIONS** of RFIS that are not production ready or ready to be used the way a stable release would be, I cannot guarentee stability on releases you find here, and if you want stability, go to releases and download **VERSION 1.00** which has been tested and works correctly and can be used normally. The current development release is **2.00-testing-branch**
+> [!IMPORTANT]
+> This is the **TESTING BRANCH** all source code here is unstable and non-production ready, and has not been tested for use on main systems. The current testing releease is **2.00-testing-branch** 
+>
+> I would appreciate it if you downloaded the most recent testing version and report any issues you have with it if you entered here on purpose, if you did not intend to enter here to test **prerelease software** please go back to the main branch.
+
 
 # RFIS
 RPM Fusion Install Script (RFIS) 
