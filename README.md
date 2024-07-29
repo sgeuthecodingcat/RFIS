@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This is the **TESTING BRANCH** all source code here is unstable and non-production ready, and has not been tested for use on main systems. The current testing releease is **2.00-testing-branch** 
+> This is the **TESTING BRANCH** all source code here is unstable and non-production ready, and has not been tested for use on main systems. The current testing release is **2.00-testing-branch**, the one placed here is **3.00-testing-branch** 
 >
 > I would appreciate it if you downloaded the most recent testing version and report any issues you have with it if you entered here on purpose, if you did not intend to enter here to test **prerelease software** please go back to the main branch.
 
