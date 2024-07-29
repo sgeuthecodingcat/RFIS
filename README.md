@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is the Stable releases branch where the current **stable** versions of the script are placed. The current stable release is ***1.00***
+> This is the Stable releases branch where the current **stable** versions of the script are placed. The current stable release is ***2.00***
 >
 > **Development** releases are in the "testing-branch" branch and are typically marked as "Pre-Release" in Releases
 
