@@ -1,6 +1,5 @@
 #!/bin/bash
 # Added shebang
-now=`date +"%F%::z"`
 [ "$UID" -eq 0 ] || exec sudo bash "$0" "$@" 
 # checks for root priveleges (UID 0) and if it is not being ran with sudo will re-exec the script as sudo using "sudo bash"
 echo ==============================
