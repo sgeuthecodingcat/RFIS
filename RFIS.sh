@@ -5,7 +5,6 @@ now=`date +"%F%::z"`
 # checks for root priveleges (UID 0) and if it is not being ran with sudo will re-exec the script as sudo using "sudo bash"
 echo ==============================
 echo RPM FUSION INSTALLATION SCRIPT
-echo FOR USE WITH BASH ONLY
 echo TESTING BRANCH
 echo ==============================
 echo Written by Sgeuthecodingcat
