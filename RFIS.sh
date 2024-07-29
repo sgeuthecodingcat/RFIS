@@ -16,6 +16,7 @@ sleep 5
 # stops script for 5 seconds, simple as that
 sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm -y | tee -a rfis_log-$date
 sudo dnf config-manager --enable fedora-cisco-openh264 -y 
+sudo dnf update @core -y
 # self explanitory - enables fedora cisco openh264 repos & install rpm fusion repo
 clear
 echo ================
