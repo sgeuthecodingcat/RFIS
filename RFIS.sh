@@ -4,11 +4,8 @@
 # checks for root priveleges (UID 0) and if it is not being ran with sudo will re-exec the script as sudo using "sudo bash"
 echo ==============================
 echo RPM FUSION INSTALLATION SCRIPT
-echo FOR USE WITH BASH ONLY
 echo ==============================
 echo Written by Sgeuthecodingcat
-echo this CAN break systems because I am just bad at coding
-echo Use at your own risk!
 echo Press CTRL+C to quit, Script will continue in 5 seconds.
 sleep 5
 # stops script for 5 seconds, simple as that
